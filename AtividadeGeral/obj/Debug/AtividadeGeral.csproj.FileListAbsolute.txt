@@ -1,0 +1,10 @@
+C:\Users\Laboratorio-Info\source\repos\AtividadeGeral\AtividadeGeral\bin\Debug\AtividadeGeral.exe.config
+C:\Users\Laboratorio-Info\source\repos\AtividadeGeral\AtividadeGeral\bin\Debug\AtividadeGeral.exe
+C:\Users\Laboratorio-Info\source\repos\AtividadeGeral\AtividadeGeral\bin\Debug\AtividadeGeral.pdb
+C:\Users\Laboratorio-Info\source\repos\AtividadeGeral\AtividadeGeral\obj\Debug\AtividadeGeral.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\source\repos\AtividadeGeral\AtividadeGeral\obj\Debug\AtividadeGeral.Panel.resources
+C:\Users\Laboratorio-Info\source\repos\AtividadeGeral\AtividadeGeral\obj\Debug\AtividadeGeral.Properties.Resources.resources
+C:\Users\Laboratorio-Info\source\repos\AtividadeGeral\AtividadeGeral\obj\Debug\AtividadeGeral.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\source\repos\AtividadeGeral\AtividadeGeral\obj\Debug\AtividadeGeral.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\source\repos\AtividadeGeral\AtividadeGeral\obj\Debug\AtividadeGeral.exe
+C:\Users\Laboratorio-Info\source\repos\AtividadeGeral\AtividadeGeral\obj\Debug\AtividadeGeral.pdb
